@@ -1,0 +1,5 @@
+{
+  "name": "MusicTrend",
+  "description": "Global Music Streaming Analytics Platform analyzing trends from Spotify and Last.fm.",
+  "requestFramePermissions": []
+}
